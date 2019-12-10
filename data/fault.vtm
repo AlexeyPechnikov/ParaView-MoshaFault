@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="Mosha" file="fault/fault_0.vtp"/>
+    <DataSet index="1" name="Mosha" file="fault/fault_1.vtp"/>
+    <DataSet index="2" name="Mosha" file="fault/fault_2.vtp"/>
+    <DataSet index="3" name="Mosha" file="fault/fault_3.vtp"/>
+    <DataSet index="4" name="Mosha" file="fault/fault_4.vtp"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>
