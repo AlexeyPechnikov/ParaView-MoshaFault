@@ -27,4 +27,4 @@ There are multiple data cubes and sections in the project which could be enabled
 
 Use [ParaView](https://www.paraview.org/download/) File -> Load State menu item to load the MOSHA.pvsm project file and specify "data" subdirectory as "Data Directory" as on the screen below:
 
-![ParaView data load settings](paraview_data_load_screen.jpg)
+![ParaView project load settings](ParaView-MoshaFault.gif)
