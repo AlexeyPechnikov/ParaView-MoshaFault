@@ -23,6 +23,11 @@ There are multiple data cubes and sections in the project which could be enabled
 
 ![ParaView Project Screenshot vertical slices](paraview_project_vslices.jpg)
 
+# Compare 3D Density calculated with the same parameters on Sandwell and Smith Gravity and GEBCO 2019 topography
+
+![ParaView Project Screenshot grey scale](surf3d_black.jpg)
+![ParaView Project Screenshot color scale](surf3d_black.jpg)
+
 # How to open the project
 
 Use [ParaView](https://www.paraview.org/download/) File -> Load State menu item to load the MOSHA.pvsm project file and specify "data" subdirectory as "Data Directory" as on the screen below:
