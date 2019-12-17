@@ -26,7 +26,7 @@ There are multiple data cubes and sections in the project which could be enabled
 # Compare 3D Density calculated with the same parameters on Sandwell and Smith Gravity and GEBCO 2019 topography
 
 ![ParaView Project Screenshot grey scale](surf3d_black.jpg)
-![ParaView Project Screenshot color scale](surf3d_black.jpg)
+![ParaView Project Screenshot color scale](surf3d_color.jpg)
 
 # How to open the project
 
