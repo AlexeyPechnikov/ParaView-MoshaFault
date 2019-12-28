@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Damavand" id="Damavand">
+	<SimpleField name="N" type="float"></SimpleField>
+	<SimpleField name="Lattude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>Damavand</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Damavand">
+		<SimpleData name="N">1</SimpleData>
+		<SimpleData name="Lattude">35.949350000000003</SimpleData>
+		<SimpleData name="Longitude">52.115150000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.1096259128649,35.9548728305025</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
