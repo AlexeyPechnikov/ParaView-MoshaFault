@@ -21,13 +21,13 @@ Click on picture below to watch YouTube videos:
 
 # Compare 3D Density calculated with the same parameters on Sandwell and Smith Gravity and GEBCO 2019 topography
 
-![ParaView Project Screenshot color scale](surf3d_color.jpg)
+<img src="surf3d_color.jpg" width="50%" alt="ParaView Project Screenshot color scale"/>
 
 # How to open the project
 
 Use [ParaView](https://www.paraview.org/download/) File -> Load State menu item to load the MOSHA.pvsm project file and specify "data" subdirectory as "Data Directory" as on the screen below:
 
-![ParaView project load settings](ParaView-MoshaFault.gif)
+<img src="ParaView-MoshaFault.gif" width="50%" alt="ParaView project load settings"/>
 
 # Authors
 
