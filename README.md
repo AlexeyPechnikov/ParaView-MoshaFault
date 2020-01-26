@@ -1,5 +1,5 @@
 # ParaView-MoshaFault
-[ParaView](https://www.paraview.org/download/) project for geological exploration on Mosha fault area, North Iran.
+[ParaView](https://www.paraview.org/download/) project files (.pvsm) for 3D models of Mosha fault and Damavand Volcano, Alborz, Iran.
 
 See LinkedIn posts for more details:
 
