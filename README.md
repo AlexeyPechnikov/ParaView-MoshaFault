@@ -1,5 +1,5 @@
 ## ParaView-MoshaFault
-[ParaView](https://www.paraview.org/download/) project for geological exploration on Mosha fault area, North Iran.
+[ParaView](https://www.paraview.org/download/) project files (.pvsm) for 3D models of Mosha fault and Damavand Volcano, Alborz, Iran.
 
 See LinkedIn posts for more details:
 
@@ -35,26 +35,21 @@ See LinkedIn posts for more details:
 
 ## How it looks
 
-There are multiple data cubes and sections in the project which could be enabled manually. See below the project screenshots:
+Click on picture below to watch YouTube videos:
 
-![ParaView Project Screenshot](paraview_project_3d.jpg)
+[![Damavand Volcano Magma Chambers and Vent](https://img.youtube.com/vi/lti1174UexE/hqdefault.jpg)](https://www.youtube.com/watch?v=lti1174UexE)
 
-![ParaView Project Screenshot 3D with slices](paraview_project_3d_slices.jpg)
-
-![ParaView Project Screenshot horizontal slices](paraview_project_hslices.jpg)
-
-![ParaView Project Screenshot vertical slices](paraview_project_vslices.jpg)
+[![Damavand Volcano Magma Chambers and Vent](https://img.youtube.com/vi/vLCm5UcsLz4/0.jpg)](https://www.youtube.com/watch?v=vLCm5UcsLz4)
 
 ## Compare 3D Density calculated with the same parameters on Sandwell and Smith Gravity and GEBCO 2019 topography
 
-![ParaView Project Screenshot grey scale](surf3d_black.jpg)
-![ParaView Project Screenshot color scale](surf3d_color.jpg)
+<img src="surf3d_color.jpg" width="50%" alt="ParaView Project Screenshot color scale"/>
 
 ## How to open the project
 
 Use [ParaView](https://www.paraview.org/download/) File -> Load State menu item to load the MOSHA.pvsm project file and specify "data" subdirectory as "Data Directory" as on the screen below:
 
-![ParaView project load settings](ParaView-MoshaFault.gif)
+<img src="ParaView-MoshaFault.gif" width="50%" alt="ParaView project load settings"/>
 
 ## Authors
 
