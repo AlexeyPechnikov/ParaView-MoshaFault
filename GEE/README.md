@@ -1,4 +1,4 @@
-# Mosaics produced by [Google Earth Engine](https://developers.google.com/earth-engine)
+## Mosaics produced by [Google Earth Engine](https://developers.google.com/earth-engine)
 
 <img src="GEE.jpg" width="50%" alt="Google Earth Engine Project Screenshot color scale"/>
 
