@@ -13,17 +13,17 @@ See LinkedIn posts for more details:
 
 ## Provided datasets ([EPSG:32639 WGS 84 / UTM zone 39N](https://epsg.io/32639))
 
-  * MODIS_Iran_Damavand_201*.tif - mosaics for 2018/2019 years for all night September scenes of MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km
+  * MODIS_Iran_Damavand_201*.tif - mosaics for 2018/2019 years for all night September scenes of MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km.
 
-  * MODIS_Iran_Damavand_201*.vtk - 3D Thermal Inversion Models produced by mosaics for 2018/2019 years for all night September scenes of MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km
+  * MODIS_Iran_Damavand_201*.vtk - 3D Thermal Inversion Models produced by mosaics for 2018/2019 years for all night September scenes of MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km with bandpass filters 15-20km.
 
-  * MODIS_Iran_Damavand_September_Night_1km_32639.tif - mosaic for 2000-2019 years night September scenes of MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km
+  * MODIS_Iran_Damavand_September_*.tif - mosaic for 2000-2019 years night September scenes of MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km.
 
-  * MODIS_Iran_Damavand_September_Night_1km_32639*.vtk - 3D Thermal Inversion Model produced by mosaic for 2000-2019 years night September scenes of MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km
+  * MODIS_Iran_Damavand_September_*.vtk - 3D Thermal Inversion Model produced by mosaic for 2000-2019 years night September scenes of MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km with bandpass filters 15-20km.
 
-  * S1_GRD_Iran_Damavand_September_VV_*.tif - mosaic of VV polarization ascending and descending Interferometric Wide Swath (IW) mode scenes of Sentinel-1 SAR GRD C-band Radar
+  * S1_GRD_*.tif - mosaic of VV polarization ascending and descending Interferometric Wide Swath (IW) mode scenes of Sentinel-1 SAR GRD C-band Radar.
 
-  * S1_GRD_Iran_Damavand_September_VV_1km*.vtk - 3D Inversion Model produced by mosaic of VV polarization ascending and descending Interferometric Wide Swath (IW) mode scenes of Sentinel-1 SAR GRD C-band Radar
+  * S1_GRD_*.vtk - 3D Inversion Model produced by mosaic of VV polarization ascending and descending Interferometric Wide Swath (IW) mode scenes of Sentinel-1 SAR GRD C-band Radar with bandpass filters 15-20km.
 
   * grav_28.1.subset.*.vtk - our density anomaly models by inversion of [Sandwell and Smith Gravity Anomaly and Vertical Gravity Gradient Open Datasets at 1 arc-minute resolution](https://www.linkedin.com/pulse/sandwell-smith-gravity-anomaly-vertical-gradient-open-pechnikov/) with bandpass filters 40-60km, 60-80km.
 
